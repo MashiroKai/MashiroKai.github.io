@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+My CV can be downloaded [here](https://mashirokai.github.io/files/cv.pdf) 
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Astronomy, University of Science and Technology of China, 2022
+* B.S. in Safty Engineering, GuangDong University of Petrochemical Technology, 2018
 
-Work experience
+Project experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
