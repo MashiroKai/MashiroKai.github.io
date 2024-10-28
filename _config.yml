@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Kai Yu"
+title                    : "Yu Kai"
 title_separator          : "-"
-name                     : &name "Kai Yu"
+name                     : &name "Yu Kai"
 description              : &description "personal description"
 url                      : https://mashirokai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,13 +21,13 @@ repository               : "https://github.com/MashiroKai"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Kai Yu"
+  avatar           : "riding.jpeg"
+  name             : "Yu Kai"
   pronouns         : # example: "she/her"  
-  bio              : "Recently work at Purple Mountain Oberservatory"
-  location         : "Nanjing JiangSu"
+  bio              : "The only limit is yourself"
+  location         : "China"
   employer         : "USTC"
-  uri              : # URL
+  uri              : #"https://www.ustc.edu.cn"
   email            : "yukai@pmo.ac.cn" 
 
   # Academic websites
@@ -272,15 +272,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:

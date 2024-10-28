@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-My CV can be downloaded [here](https://mashirokai.github.io/files/cv.pdf) 
+Chinese version CV can be downloaded [here](https://mashirokai.github.io/files/cv_kaiyu.pdf).
+
+English version CV can be downloaded [here](https://mashirokai.github.io/files/cv_mashiro.pdf).
 
 Education
 ======
@@ -17,48 +19,42 @@ Education
 
 Project experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research on readout electronics methods for CsI crystal arrays based on SiPM arrays.(2024-4 to Present)
+  * Designed frontend circuits including operational amplifiers, ADC sampling, and et al. 
   
+    (to amplify weak analog signals and convert them to digital signals.)
+  * Developed a multiplexed resistor-encoded network circuit. 
+
+    (to encode signals using analog circuitry, reducing the number of readout channels.)
+
+  * Designed PC software in LabWindows/CVI to provide an interactive data processing interface (C programming).
+
+    (for interactive data processing and display).
+
+* Developed a testing system for the LNGS.(2023-6 to 2024-4)
+  * Designed FPGA PCB backplane, differential signal conversion circuits, serial and USB transmission circuits (hardware design).
+
+  * Developed internal FPGA logic to implement functions like timing control, error checking, and data transmission (FPGA programming).
+
+  * Designed PC software in LabWindows/CVI to provide an interactive control interface (C programming).
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Proficient in digital and analog circuit design.
+* Program languages
+  * Hardware languages
+    CHISEL, Verilog
+  * Software languages
+    C, Scala
+* English Proficency
+  * TOFEL 110(Out of 120)(will be taken in Oct 26 ,2024)
+  * CET6 526(Out of 710)
+* PCB design software
+  * Altium Design
+  * JLC EDA
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
