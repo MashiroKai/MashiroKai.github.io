@@ -47,8 +47,8 @@ Proficient in digital and analog circuit design.
   * Software languages
     C, Scala
 * English Proficency
-  * TOFEL 110(Out of 120)(will be taken in Oct 26 ,2024)
-  * CET6 526(Out of 710)
+  * TOFEL 105/120
+  * CET6 526/710
 * PCB design software
   * Altium Design
   * JLC EDA
