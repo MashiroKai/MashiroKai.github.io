@@ -1,6 +1,6 @@
 ---
 title: "Readout electronics for SiPM arrays"
-excerpt: "This project is still ongoing,the following will present the latest progress of the project.<br/><img src='/images/powerBoard.heic'>"
+excerpt: "This project is still ongoing,the following will present the latest progress of the project.<br/><img src='/images/adc.png'>"
 collection: portfolio
 ---
 We used a single crystal paired with a single SiPM to verify the method of encoding positional information using a resistor network.Through a resistor network, 64 SiPM signals can be encoded into four output channels. The SiPM signal from each position creates a specific distribution of weights across the four output ports, enabling the identification of the signal’s origin based on this principle.

@@ -47,10 +47,11 @@ Proficient in digital and analog circuit design.
   * Software languages
     C, Scala
 * English Proficency
-  * TOFEL 105/120
+  * TOFEL 87/120
   * CET6 526/710
 * PCB design software
   * Altium Design
+  * Cadence/OrCad
   * JLC EDA
 
 Publications

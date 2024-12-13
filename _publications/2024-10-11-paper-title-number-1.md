@@ -7,7 +7,7 @@ excerpt: 'Test system for Neutron Gamma Spectrometer'
 date: 2024-10-11
 venue: 'will be'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://mashirokai.github.io/files/change7.pdf'
+paperurl: 'http://mashirokai.github.io/files/Sorry.pdf'
 citation: 'Yu KAi, Zunlei XU, Yongqiang ZHANG. (2024). &quot;Design and Realization of the Test System for Chang’e-7 Lunar Neutron Gamma Spectrometer.&quot; <i>Chinese Jounal of Space Science </i>.Submitting.'
 ---
 
